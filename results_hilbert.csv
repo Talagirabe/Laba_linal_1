@@ -1,0 +1,4 @@
+n,relative_error_no_pivot,relative_error_partial_pivot,residual_no_pivot,residual_partial_pivot
+5,1.553038e-12,3.493365e-13,2.220446e-16,5.207408e-16
+10,4.593952e-05,8.242289e-05,4.002966e-16,1.570092e-16
+15,4.332142e+00,4.094697e+00,8.812122e-16,7.691851e-16

@@ -1,0 +1,4 @@
+n,k,gauss_partial_pivot_total_sec,lu_decomposition_sec,lu_all_substitutions_sec,lu_total_sec
+200,1,0.06169,0.814819,0.009588,0.824407
+200,5,0.310462,0.803978,0.051713,0.855691
+200,20,1.204153,0.806885,0.210478,1.017364
